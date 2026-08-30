@@ -1,6 +1,3 @@
 # Netflix-Interactive-System-Emulator
 TR: Netflix Bandersnatch tarzı interaktif filmler oynatabileceğiniz, kendi seçimli hikayelerinizi oluşturabileceğiniz ve karar ağaçlarını yönetebileceğiniz web platformu.  EN: A Netflix Bandersnatch-style interactive movie player and creator studio with custom choice nodes, multi-profile tracking, and visual decision mapping.
-Film nasıl eklenir: Youtube'da şu kanaldan izlemek istediğiniz filmi bulabilirsiniz:https://www.youtube.com/channel/UC5DOqyKRvJHP2xwPspbWtlA
-Ardından sayfanın sağ üst köşesinde Film ve Karar Ekle kısmından filmin süresini ve kararları ve diğer her şeyi ayarlayabilirsiniz. Yakında filmlerin hazır olduğu sistem gelecek ve sayfanın diğer dil destekleri. MitoJD'nin Netflix Interactive System Emulator sitesini kullandığınız için teşekkürler.
-https://mitojd.github.io/Netflix-Interactive-System-Emulator/
  I changed logo for my family and friends but this app is eveep23's app. If you wanna me delete the repo i can delete it. But i'm gonna adding new features and Such as a more advanced, trouble-free hosting system or native operation directly on televisions. I will do everything in my power to improve this project and aim to make it usable for the community—even for those without technical expertise.I also extend my special thanks to Fuko, who helped me add these features.
