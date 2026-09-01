@@ -1,0 +1,29 @@
+name: Node.js CI/CD Testi
+
+on:
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Node.js Kurulumu
+      uses: actions/setup-node@v4
+      with:
+        node-size: 20
+        cache: 'npm'
+
+    - name: Bağımlılıkları Yükle
+      run: npm ci
+
+    - name: Projeyi Derle (Build)
+      run: npm run build --if-present
+
+    - name: Testleri Çalıştır
+      run: npm test --if-present
