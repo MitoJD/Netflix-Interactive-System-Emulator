@@ -1,7 +1,5 @@
 [![Node.js CI/CD Testi](https://github.com/MitoJD/Netflix-Interactive-System-Emulator/actions/workflows/node.js.yml/badge.svg)](https://github.com/MitoJD/Netflix-Interactive-System-Emulator/actions/workflows/node.js.yml)
 
-![GitHub last commit](https://shields.io)
-
 # 🎬 Netflix Interactive System Emulator
 
 An advanced emulator and creator studio for Netflix's Interactive Entertainment! Play choice-driven shows or build custom stories.
