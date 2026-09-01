@@ -1,5 +1,3 @@
-[![Node.js CI/CD Testi](https://github.com)](https://github.com)
-
 # 🎬 Netflix Interactive System Emulator
 
 An advanced emulator and creator studio for Netflix's Interactive Entertainment! Play choice-driven shows or build custom stories.
